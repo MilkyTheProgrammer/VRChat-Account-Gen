@@ -1,0 +1,15 @@
+{
+    "2captcha-key": "",
+    "username-list": [
+
+    ],
+    "use-username-list": false,
+    "random-username": true,
+    "incremnt-username": false,
+    "amount-of-accounts": 1,
+    "dev-mode": true,
+    "logging": true,
+    "use-special-characters": false,
+    "site-key": "",
+    "domain": "vrchat.com"
+}
